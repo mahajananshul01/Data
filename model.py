@@ -93,37 +93,7 @@ async def main(message: cl.Message):
 
     await cl.Message(content=answer).send()
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+#Below is the code which i tried but wasn't working properly 
 
 # from langchain import PromptTemplate
 # from langchain.embeddings import HuggingFaceEmbeddings
